@@ -16,6 +16,7 @@ Structural MRI data (referred to as anatomical data)
 Functional data (referred to as uniformity test results)
 
 The following Python packages were utilized in this notebook:
+
 python
 
 nibabel
